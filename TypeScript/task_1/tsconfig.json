@@ -5,8 +5,7 @@
       "sourceMap": true,
       "noImplicitAny": true,
       "module": "esnext",
-      "target": "es2015",
-      "ignoreDeprecations": "6.0",
+      "target": "es2016",
       "allowJs": true,
       "moduleResolution": "bundler"
     }
